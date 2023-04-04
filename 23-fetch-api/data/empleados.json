@@ -1,0 +1,20 @@
+[
+     {
+          "id" : 1,
+          "nombre" : "Ricardo",
+          "empresa" : "Google",
+          "trabajo" : "Desarrollador backend"
+     },
+     {
+          "id" : 2,
+          "nombre" : "Roberto",
+          "empresa" : "Netflix",
+          "trabajo" : "Diseñador"
+     },
+     {
+          "id" : 3,
+          "nombre" : "Rafel",
+          "empresa" : "Spotify",
+          "trabajo" : "Arquitecto de software"
+     }
+]
